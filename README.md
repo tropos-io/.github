@@ -28,3 +28,7 @@ As an innovative service provider, we are tool agnostic by nature. We rely on bo
 [twitter]: https://twitter.com/tropos_io
 [linkedin]: https://linkedin.com/company/tropos.io
 [instagram]: https://www.instagram.com/tropos.io
+[snowflake]: https://www.snowflake.com
+[aws]: https://www.aws.com
+[matillion]: https://www.matillion.com
+[datadog]: https://www.datadog.com
