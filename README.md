@@ -1,4 +1,4 @@
-### Hi there, we are Tropos.io 👋
+# Hi there, we are Tropos.io 👋
 
 
 We are a modern consulting firm focused on strategy and technology to support data driven business transformation. We design, build and operate data analytics platforms, products and projects to solve challenging business problems. We are 100% focused on using public cloud for our toolkit. Find us at [Tropos.io][website]
@@ -14,7 +14,7 @@ As an innovative service provider, we are tool agnostic by nature. We rely on bo
 - [Datadog][datadog]: Our standard toolkit for platform monitoring.
 
 
-### Connect with us
+## Connect with us
 
 [<img align="left" alt="tropos" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="tropos | Twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
